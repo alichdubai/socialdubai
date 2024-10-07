@@ -1,6 +1,3 @@
-Here's a modern, professional, and visually engaging README file for your React Native project, including icons to make it more appealing:
-
----
 
 # 🚀 Cross-Platform Social Media App with Real-Time Features
 
